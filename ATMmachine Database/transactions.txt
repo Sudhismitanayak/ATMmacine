@@ -1,0 +1,2 @@
+--CREATE TRANSACTION TABLE
+CREATE TABLE transactions(transid int primary key auto_increment, id int, amount int, stat varchar(3), bal int);
